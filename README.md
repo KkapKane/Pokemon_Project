@@ -1,6 +1,6 @@
 <h1 align="center">🎮 Pallet Town</h1>
 
-🎥 [Live Preview](https://kkapkane.github.io/pallet_town/)
+🎥 [Live Preview](https://kane-exe.github.io/pallet_town/)
 
 ---
 
